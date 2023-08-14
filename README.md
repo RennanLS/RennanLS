@@ -1,11 +1,3 @@
-
-### Bem-vindo ao meu profile 💖
-Olá, meu nome é Rennan e busco mudar a minha vida e de outras pessoas através da programação.
-
-Atualmente estou estudando sobre Front-End
-
-![RennanLS GitHub stats](https://github-readme-stats.vercel.app/api?username=rennanls&show_icons=true&theme=radical)
-
 ## Habilidades
 <div style="display: inline_block">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
